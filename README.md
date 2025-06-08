@@ -56,7 +56,7 @@
       <tr>
         <td rowspan="3"><b>Structural Bioinformatics</b></td>
         <td><b>PyMOL</b></td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/PyMOL_Logo.svg" width="40"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/500px-PyMOL_logo.svg.png" width="40"/></td>
         <td>⭐⭐⭐⭐☆</td>
       </tr>
       <tr>
