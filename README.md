@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Carla</h1>
-<img src="/1000048248.png" alt="Descripción de la imagen" width="200" style="display: block; margin: 0 auto;">
+<img src="" alt="Descripción de la imagen" width="200" style="display: block; margin: 0 auto;">
 <h4 align="center">I am a Ph.D. candidate in Science and Technology at Universidad Nacional de Quilmes (UNQ), Argentina, specializing in structural bioinformatics and molecular biophysics. I use computational tools and molecular simulations to study protein-protein interactions and intrinsically disordered proteins (IDPs) in complex biological systems.</h4>
 
 
